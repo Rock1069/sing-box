@@ -1,0 +1,1 @@
+bash <(wget -qO- -o- https://github.com/Rock1069/sing-box/raw/main/install.sh)
